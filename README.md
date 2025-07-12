@@ -46,12 +46,6 @@
 
 ---
 
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
-
----
-
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)] (https://linkedin.com/in/RachitShakya)
