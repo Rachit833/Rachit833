@@ -10,7 +10,7 @@
 - 💼 Currently working on: **My Portfolio**  
   _Tech Stack: React.js | Node.js | MongoDB | Express_
 
-- 📫 How to reach me: **rachitshakya2003@gmail.com**
+- 📫 How to reach me: **rachitshakya7060@gmail.com**
 
 
 
